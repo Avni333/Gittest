@@ -7,5 +7,9 @@ public void login()
 	
 }
 
+public void setmeth()
+{ 
+	System.out.println("Login set up ");
+}
 }
 
